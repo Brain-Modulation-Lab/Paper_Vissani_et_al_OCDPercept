@@ -11,7 +11,7 @@ The code was tested with Matlab 2022a using Cpython 3.9.
 
 Clone the repository:
 
-    git clone git@github.com:MatteoVissani/VIssani_et_al_OCDPercept.git
+    git clone git@github.com:Brain-Modulation-Lab/Paper_Vissani_et_al_OCDPercept.git
     
 Requirements:
 - Matlab wrapper for [FOOOF](https://github.com/fooof-tools/fooof).
