@@ -3,7 +3,10 @@ This repository contains the code for the project regarding the analysis of long
 
 The code associated with the article:
 
-[under review]
+Matteo Vissani, Pranav Nanda, Alan Bush, Clemens Neudorfer, Darin Dougherty, R. Mark Richardson,
+Toward Closed-Loop Intracranial Neurostimulation in Obsessive-Compulsive Disorder, Biological Psychiatry, 2022,
+https://doi.org/10.1016/j.biopsych.2022.07.003.[Link](https://www.sciencedirect.com/science/article/pii/S0006322322014329)
+
 
 ## Installation
 
